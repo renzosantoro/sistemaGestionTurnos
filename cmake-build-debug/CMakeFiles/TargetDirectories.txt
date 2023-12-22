@@ -1,0 +1,3 @@
+D:/Renzo/Unnoba/Materias/1. Primer Año/Segundo Cuatrimestre/Programación Imperativa/EntregaFinal (con nico)/sistemaGestionTurnos/cmake-build-debug/CMakeFiles/untitled.dir
+D:/Renzo/Unnoba/Materias/1. Primer Año/Segundo Cuatrimestre/Programación Imperativa/EntregaFinal (con nico)/sistemaGestionTurnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Renzo/Unnoba/Materias/1. Primer Año/Segundo Cuatrimestre/Programación Imperativa/EntregaFinal (con nico)/sistemaGestionTurnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
