@@ -1,0 +1,1 @@
+Entrega final de la materia Programacion Imperativa la cual abordaba analizar, diseñar, desarrollar y modificar un sistema informático, aplicando los conceptos que se vieron durante la cursada de la asignatura y trabajando sobre las habilidades y competencias que en PI se proponen
